@@ -1,0 +1,8 @@
+*.class
+*.jpg
+*.lnk
+/bin/
+
+*.classpath
+.classpath
+pi/piimage
